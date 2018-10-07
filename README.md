@@ -1,2 +1,2 @@
 # Youtube-2-mp3
-Download song from youtube directly into your folders
+From one key press, you download the youtube video from your browser. 
