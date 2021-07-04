@@ -1,5 +1,5 @@
 settings= {
     "browser":"firefox",
-    "path":"/home/westornd/.mozilla/firefox/euy0mqkl.default/sessionstore-backups",
-    "pathMusique": "/home/westornd/Musique"
+    "path":"/home/westornd/.mozilla/firefox/ljwygs3b.default-esr/sessionstore-backups",
+    "pathMusique": "/home/westornd/Music"
 }
